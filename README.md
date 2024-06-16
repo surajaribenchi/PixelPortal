@@ -5,5 +5,4 @@ Created a web app allowing users to chat in Real-time.</br>
 • **Tech Stack**: Socket.io, ReactJS, NodeJS, Express, MongoDB
 
 ##Community Post
-https://github.com/surajaribenchi/PixelPortal/blob/main/community.jpg
-
+![community](https://github.com/surajaribenchi/PixelPortal/blob/main/community.jpg)
