@@ -1,8 +1,15 @@
 # PixelPortal
-Created a web app allowing users to chat in Real-time.</br>
-• User can login and Register.</br>
-• user can type a message and recieve in realtime.</br>
-• **Tech Stack**: Socket.io, ReactJS, NodeJS, Express, MongoDB
+created app where user can generate images and share it with community!!
+• Anybody can view the community or can even search for specific image. </br>
+• Author of the posts and description can be seen.</br>
+• can Gnerate the image by giving brief description and can also post in community.</br>
+• **Tech Stack**: ReactJS, NodeJS, Express, MongoDB and used openAI API for generating images.
 
-##Community Post
+## Community Post
 ![community](https://github.com/surajaribenchi/PixelPortal/blob/main/community.jpg)
+
+## Information About community Posts
+![info](https://github.com/surajaribenchi/PixelPortal/blob/main/info.jpg)
+
+## Generate Image
+![Gen](https://github.com/surajaribenchi/PixelPortal/blob/main/gen.jpg)
