@@ -1,7 +1,9 @@
-# Build and Deploy a Full Stack MERN AI Image Generation App  MidJourney & DALL E Clone
-![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)
+# PixelPortal
+Created a web app allowing users to chat in Real-time.</br>
+• User can login and Register.</br>
+• user can type a message and recieve in realtime.</br>
+• **Tech Stack**: Socket.io, ReactJS, NodeJS, Express, MongoDB
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+## Login Page
+![Login](https://github.com/surajaribenchi/Blab/blob/main/info.jpg)
 
-### Launch your development career with project-based coaching - https://www.jsmastery.pro
