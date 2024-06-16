@@ -4,6 +4,6 @@ Created a web app allowing users to chat in Real-time.</br>
 • user can type a message and recieve in realtime.</br>
 • **Tech Stack**: Socket.io, ReactJS, NodeJS, Express, MongoDB
 
-## Login Page
-![Login](https://github.com/surajaribenchi/Blab/blob/main/info.jpg)
+##Community Post
+https://github.com/surajaribenchi/PixelPortal/blob/main/community.jpg
 
