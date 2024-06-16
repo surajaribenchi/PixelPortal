@@ -1,5 +1,5 @@
 # PixelPortal
-created app where user can generate images and share it with community!!
+created app where user can generate images and share it with community!!</br>
 • Anybody can view the community or can even search for specific image. </br>
 • Author of the posts and description can be seen.</br>
 • can Gnerate the image by giving brief description and can also post in community.</br>
